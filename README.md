@@ -62,6 +62,6 @@ Se não estiver rodando nenhuma outra aplicação, o projeto abrirá na porta pa
 ![image](https://user-images.githubusercontent.com/65187931/191631490-5da0fef2-42bd-4d44-8fe9-c39cf1e17d43.png)
 
 Nesse ponto deve aparecer a página home com a mensagem 'home works!' ao abrir http://localhost:4200/  no browser.
-![image](https://user-images.githubusercontent.com/65187931/191632371-59d3f4fc-376b-428d-982e-2142e5371d79.png)
+![image](https://user-images.githubusercontent.com/65187931/191632449-45e3f10c-107b-45cb-9f36-8286aad250d1.png)
 
 
