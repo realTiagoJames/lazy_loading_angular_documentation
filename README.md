@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/65187931/191623675-019fd785-6091-43c5-8ebe-dcf746fcc9d4.png)
 
 2. Ao criar um projeto angular corretamente, crie a pasta com o nome modulos na do diretório app/ 
-![image](https://user-images.githubusercontent.com/65187931/191624403-9c99395a-8904-4629-b70a-17ef3db3e8a9.png)
+<div aligm="center"><img src="https://user-images.githubusercontent.com/65187931/191624403-9c99395a-8904-4629-b70a-17ef3db3e8a9.png"/></div>
 
 
 3. Clique com o botão direito do mouse em cima dessa pasta e navege até a opção 'Angular: Generate a Module'.
