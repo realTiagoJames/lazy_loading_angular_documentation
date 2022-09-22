@@ -3,7 +3,7 @@
 1. Instale a extensão Angular Schematics em seu VsCode, pesquisando o nome 'Angular Schematics' e clicando em install(EUA) OU Instalar(BRA).
 ![image](https://user-images.githubusercontent.com/65187931/191623675-019fd785-6091-43c5-8ebe-dcf746fcc9d4.png)
 
-2. Ao criar um projeto angular corretamente, crie a pasta com o nome modulos na do diretório app/ 
+2. Após criar um projeto angular corretamente, crie a pasta com o nome modulos na do diretório app/ 
 ![image](https://user-images.githubusercontent.com/65187931/191624403-9c99395a-8904-4629-b70a-17ef3db3e8a9.png)
 
 
