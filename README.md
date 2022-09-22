@@ -41,7 +41,13 @@ clicar com o botão direito em cima da pasta app no explorador de arquivos e nav
 
 10. Edite o arquivo app-routing.module.ts para quando o endereço estiver vazio depois de '/'(barra), carregar o módulo 'inicial':
 ![image](https://user-images.githubusercontent.com/65187931/191630805-2988d285-7f36-4d60-b0d8-f460b7dae740.png)
-
+```
+  {
+    path: '',
+    redirectTo: '/inicial',
+    pathMatch: 'full'
+  }
+```
 11. Em seguida, no arquivo app.component.html exclua todo o código gerado automático com a criação do projeto angular, cole o código abaixo e salve:
 ```
 <router-outlet></router-outlet>
