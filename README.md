@@ -70,6 +70,7 @@ Nesse ponto deve aparecer a página home com a mensagem 'home works!' ao abrir h
 - Baixar o [VS Code](https://code.visualstudio.com/download);
 - Orientações do marketplace.visualstudio para [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics);
 - Requirementos and solução de porblemas da extentsão [troubleshooting](https://github.com/cyrilletuzi/vscode-angular-schematics/blob/main/walkthroughs/troubleshooting.md);
+- Instalação do NodeJs com gerenciador de versões [NVM](https://github.com/coreybutler/nvm-windows/edit/master/README.md);
 - Instalação do [Angular CLI](https://angular.io/cli);
 - Documentação oficial do [Lazy-Loading](https://angular.io/guide/lazy-loading-ngmodules);
 
