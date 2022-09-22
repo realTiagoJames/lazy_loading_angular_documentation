@@ -1,4 +1,4 @@
-# CRIAR E CONFIGURAR O LAZY LOAD NO ANGULAR
+<h1 align="center">CRIAR E CONFIGURAR O LAZY LOAD NO ANGULAR</h1>
 
 1. Instale a extensão Angular Schematics em seu VsCode, pesquisando o nome 'Angular Schematics' e clicando em install(EUA) OU Instalar(BRA).
 ![image](https://user-images.githubusercontent.com/65187931/191623675-019fd785-6091-43c5-8ebe-dcf746fcc9d4.png)
@@ -58,8 +58,10 @@ clicar com o botão direito em cima da pasta app no explorador de arquivos e nav
 ```
 ng serve
 ```
->Se não estiver rodando nenhuma outra aplicação, o projeto abrirá na porta padrão http://localhost:4200/ no browser.
+Se não estiver rodando nenhuma outra aplicação, o projeto abrirá na porta padrão http://localhost:4200/ no browser.
 ![image](https://user-images.githubusercontent.com/65187931/191631490-5da0fef2-42bd-4d44-8fe9-c39cf1e17d43.png)
 
->Nesse ponto deve aparecer a página home com a mensagem 'home works!' ao abrir http://localhost:4200/  no browser.
+Nesse ponto deve aparecer a página home com a mensagem 'home works!' ao abrir http://localhost:4200/  no browser.
+![image](https://user-images.githubusercontent.com/65187931/191632371-59d3f4fc-376b-428d-982e-2142e5371d79.png)
+
 
