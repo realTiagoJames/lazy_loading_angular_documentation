@@ -65,3 +65,6 @@ Nesse ponto deve aparecer a página home com a mensagem 'home works!' ao abrir h
 ![image](https://user-images.githubusercontent.com/65187931/191632449-45e3f10c-107b-45cb-9f36-8286aad250d1.png)
 
 
+# Links úteis:
+
+- Documentação oficial do [Lazy-Loading] (https://angular.io/guide/lazy-loading-ngmodules)
