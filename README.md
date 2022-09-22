@@ -69,4 +69,4 @@ Nesse ponto deve aparecer a página home com a mensagem 'home works!' ao abrir h
 
 - Documentação oficial do [Lazy-Loading](https://angular.io/guide/lazy-loading-ngmodules)
 - Baixar o [VS Code](https://code.visualstudio.com/download)
-- Requirements and troubleshooting da Extentsão [Angular Schematics](https://github.com/cyrilletuzi/vscode-angular-schematics/blob/main/walkthroughs/troubleshooting.md)
+- Requirementos and solução de porblemas(troubleshooting) da extentsão [Angular Schematics](https://github.com/cyrilletuzi/vscode-angular-schematics/blob/main/walkthroughs/troubleshooting.md)
